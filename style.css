@@ -1,0 +1,18 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#heading
+{
+    font-size: 30px;
+    color: blueviolet;
+
+}
+
+#one
+{
+    color: rgb(0, 229, 255);
+    
+    border-color: rgb(17, 255, 0);
+}
